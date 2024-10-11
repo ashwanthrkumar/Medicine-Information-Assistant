@@ -10,7 +10,7 @@ def configure_gemini_api(api_key):
     genai.configure(api_key=api_key)
 
 # Replace with your actual Gemini API key
-API_KEY = 'AIzaSyDTenTn5lavhor_cot1odUWBJmScuR6G30'
+API_KEY = 'x'
 configure_gemini_api(API_KEY)
 
 # Function to get a response from Gemini AI using the medicine prompt
